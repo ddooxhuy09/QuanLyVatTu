@@ -1,0 +1,11 @@
+<FileList>
+  <File Reference="DevExpress.XtraGrid.v24.2.dll">
+    <ToolboxItems UIFramework="WinForms" VSCategory="DX.24.2: Data &amp; Analytics">
+      <Item Type="DevExpress.XtraEditors.GridLookUpEdit" />
+      <Item Type="DevExpress.XtraEditors.SearchLookUpEdit" />
+      <Item Type="DevExpress.XtraGrid.GridControl" />
+      <Item Type="DevExpress.XtraGrid.GridSplitContainer" />
+      <Item Type="DevExpress.XtraGrid.Views.Grid.EditFormUserControl" />
+    </ToolboxItems>
+  </File>
+</FileList>

@@ -1,0 +1,7 @@
+<FileList>
+  <File Reference="DevExpress.XtraPivotGrid.v24.2.dll">
+    <ToolboxItems UIFramework="WinForms" VSCategory="DX.24.2: Data &amp; Analytics">
+      <Item Type="DevExpress.XtraPivotGrid.PivotGridControl" />
+    </ToolboxItems>
+  </File>
+</FileList>
